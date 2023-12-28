@@ -231,3 +231,11 @@ body {
 .submenu li a:hover {
     background-color: gold; /* Hover background color */
 }
+#footer h1 {
+  text-align: center;
+  font-size: 0.6rem;
+  padding: 0.6rem;
+  font-weight: 45;
+  color: black;
+  background: gold;
+}
