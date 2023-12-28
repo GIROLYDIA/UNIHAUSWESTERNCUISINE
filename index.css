@@ -110,11 +110,18 @@ body
     margin-left: 140px;
     background: rgba(0,100,0);
 }
-#footer h1 {
-  text-align: center;
-  font-size: 0.6rem;
-  padding: 0.6rem;
-  font-weight: 12;
-  color: black;
-  background: gold;
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 70%;
+    background-color: #FFD700;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.copyright p {
+    margin: 0;
+    font-size: 14px;
 }
